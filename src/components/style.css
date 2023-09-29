@@ -1,0 +1,73 @@
+/* Jay Bhagvan */
+
+
+.Hover {
+    transition: all 0.5s ease 0s;
+}
+
+.Hover:hover {
+    z-index: 1;
+    position: absolute;
+    transform: scale(1.11);
+    box-shadow: 0px 0px 5px black;
+
+
+}
+
+.WIDTH {
+    height: 40vh;
+        width: 42vw;
+        display: inline-block;
+        margin: 11px;
+        overflow: hidden;
+        background-size: cover;
+        font-size: 0.8rem;
+        position: relative;
+}
+
+.H{
+    height: 581px;
+}
+
+@media only screen and (min-width: 351px){
+    .H{
+        height: 461px;
+    }
+}
+
+@media only screen and (min-width: 351px) and (max-width: 768px){
+    .H{
+        height: 511px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .FlEX {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .WIDTH {
+        width: 100%;
+    }
+
+    .HEIGHT {
+        height: 100%;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1001px){
+    .H{
+        height: 581px;
+    }
+}
+
+@media only screen and (min-width: 1001px){
+    .H{
+        height: 481px;
+    }
+}
