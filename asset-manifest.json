@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/News-App/static/css/main.ebe80779.css",
-    "main.js": "/News-App/static/js/main.b01cbdfd.js",
+    "main.js": "/News-App/static/js/main.a6f7f540.js",
     "static/js/787.7c0df184.chunk.js": "/News-App/static/js/787.7c0df184.chunk.js",
     "static/media/loading-loading-forever.gif": "/News-App/static/media/loading-loading-forever.213a5d77983f0bf0f074.gif",
     "static/media/Suchit News App Logo.png": "/News-App/static/media/Suchit News App Logo.f60e269f5454e5c083cf.png",
     "index.html": "/News-App/index.html",
     "main.ebe80779.css.map": "/News-App/static/css/main.ebe80779.css.map",
-    "main.b01cbdfd.js.map": "/News-App/static/js/main.b01cbdfd.js.map",
+    "main.a6f7f540.js.map": "/News-App/static/js/main.a6f7f540.js.map",
     "787.7c0df184.chunk.js.map": "/News-App/static/js/787.7c0df184.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebe80779.css",
-    "static/js/main.b01cbdfd.js"
+    "static/js/main.a6f7f540.js"
   ]
 }
